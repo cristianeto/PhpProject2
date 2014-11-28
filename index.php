@@ -26,7 +26,7 @@ echo "7 x $i = ".(7*$i)."<br>\n";
         
         ?>
         
-        <label>Nombre: </label><input type="text" name="nombre" placeholder="Ingrese su nombre"/>
+        <label>Nombre: </label><input type="text" name="nombre" placeholder="Ingrese su nombre"/><br>
         <label>Apellido: </label><input type="text" name="apellido" placeholder="Ingrese su apellido"/>
     </body>
 </html>
