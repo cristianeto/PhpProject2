@@ -25,5 +25,8 @@ for($i=1; $i<11; $i++)
 echo "7 x $i = ".(7*$i)."<br>\n";
         
         ?>
+        
+        <label>Nombre: </label><input type="text" name="nombre" placeholder="Ingrese su nombre"/>
+        <label>Apellido: </label><input type="text" name="apellido" placeholder="Ingrese su apellido"/>
     </body>
 </html>
