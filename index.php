@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Bienvenido Cristian</h1>
+        <h1>Bienvenido Cristian Geovanny</h1>
         <?php
         
         //for($i=0; $i<5; $i++)
