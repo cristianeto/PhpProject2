@@ -10,11 +10,11 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        
+        <h1>Bienvenido Cristian</h1>
         <?php
-        echo "<h1>Bienvenido</h1>";
-        for($i=0; $i<5; $i++)
-        echo "Ola ke ase";
+        
+        //for($i=0; $i<5; $i++)
+        //echo "Ola ke ase";
         
         
         echo	"<h1>Tabla de multiplicar del 7</h1>";
@@ -28,5 +28,6 @@ echo "7 x $i = ".(7*$i)."<br>\n";
         
         <label>Nombre: </label><input type="text" name="nombre" placeholder="Ingrese su nombre"/><br>
         <label>Apellido: </label><input type="text" name="apellido" placeholder="Ingrese su apellido"/>
+        <input type="submit" value="Guardar" name="guardar"/>
     </body>
 </html>
