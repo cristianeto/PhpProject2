@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>PAgina de prueba</title>
     </head>
     <body>
         <h1>Bienvenido Cristian Geovanny</h1>
